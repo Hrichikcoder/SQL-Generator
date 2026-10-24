@@ -1,0 +1,62 @@
+{
+  "model_id": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "completion_timestamp": "2026-10-24 10:03:33",
+  "training_time_seconds": 3342.68,
+  "training_time_formatted": "55m 42s",
+  "peak_vram_allocated_mb": 5314.15,
+  "peak_vram_allocated_gb": 5.19,
+  "parameters": {
+    "total_parameters": 1562179072,
+    "trainable_parameters": 18464768,
+    "trainable_percentage": 1.182
+  },
+  "hyperparameters": {
+    "epochs": 3,
+    "batch_size": 2,
+    "gradient_accumulation_steps": 8,
+    "effective_batch_size": 16,
+    "learning_rate": 5e-05,
+    "max_seq_length": 1024,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lr_scheduler": "linear",
+    "init_adapter": "D:\\GenericSQLGenerator\\qlora_adapter",
+    "extra_train_files": [],
+    "early_stopping_patience": 3,
+    "training_examples": 6191,
+    "optimizer": "paged_adamw_8bit",
+    "loss_masking": "target_sql_tokens_only"
+  },
+  "results": {
+    "mean_train_loss": 0.0724,
+    "final_val_loss": 0.1781,
+    "total_training_steps": 600,
+    "best_eval_step": 300,
+    "val_loss_curve": [
+      [
+        100,
+        0.1874
+      ],
+      [
+        200,
+        0.1997
+      ],
+      [
+        300,
+        0.1781
+      ],
+      [
+        400,
+        0.1875
+      ],
+      [
+        500,
+        0.2161
+      ],
+      [
+        600,
+        0.2141
+      ]
+    ]
+  }
+}

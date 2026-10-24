@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-10-23 20:57:57",
+  "total_records": 8635,
+  "splits": {
+    "train": {
+      "count": 6273,
+      "percentage": 72.65
+    },
+    "validation": {
+      "count": 718,
+      "percentage": 8.31
+    },
+    "test": {
+      "count": 1644,
+      "percentage": 19.04
+    }
+  },
+  "audit": {
+    "question_leakage": {
+      "train_val_overlap": 0,
+      "train_test_overlap": 0,
+      "val_test_overlap": 0,
+      "zero_leakage_verified": true,
+      "generic_question_text_overlap": {
+        "train_val": 4,
+        "train_test": 0,
+        "val_test": 0
+      }
+    },
+    "database_distribution": {
+      "total_unique_databases": 146,
+      "train_unique_databases": 124,
+      "val_unique_databases": 16,
+      "test_unique_databases": 6,
+      "val_unseen_in_train": 16,
+      "test_unseen_in_train": 6,
+      "test_shared_with_train": 0
+    }
+  }
+}

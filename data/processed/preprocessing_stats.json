@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-10-23 20:57:39",
+  "total_raw_records": 8659,
+  "total_cleaned_records": 8635,
+  "total_duplicates_dropped": 24,
+  "total_invalid_dropped": 0,
+  "total_unique_databases": 146,
+  "split_breakdown": [
+    {
+      "split": "test",
+      "raw_count": 1659,
+      "valid_count": 1644,
+      "dropped_missing_fields": 0,
+      "dropped_invalid_sql": 0,
+      "dropped_duplicates": 15,
+      "unique_databases_retained": 6
+    },
+    {
+      "split": "train",
+      "raw_count": 7000,
+      "valid_count": 6991,
+      "dropped_missing_fields": 0,
+      "dropped_invalid_sql": 0,
+      "dropped_duplicates": 9,
+      "unique_databases_retained": 140
+    }
+  ]
+}
