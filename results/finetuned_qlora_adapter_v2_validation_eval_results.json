@@ -2,7 +2,7 @@
   "metrics": {
     "model_id": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
     "adapter": "qlora_adapter_v2",
-    "evaluation_timestamp": "2026-10-24 11:46:25",
+    "evaluation_timestamp": "2026-10-28 00:29:22",
     "split": "validation",
     "total_test_samples": 200,
     "full_test_set": false,
@@ -14,7 +14,7 @@
     "syntax_valid_count": 200,
     "syntax_valid_rate": 100.0,
     "invalid_sql_count": 0,
-    "average_latency_seconds": 3.947,
+    "average_latency_seconds": 3.029,
     "peak_vram_allocated_mb": 1241.06,
     "unseen_databases_tested": 16
   },
@@ -30,7 +30,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 3.496
+      "latency_seconds": 4.687
     },
     {
       "id": "train_03557",
@@ -43,7 +43,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.737
+      "latency_seconds": 3.224
     },
     {
       "id": "train_04337",
@@ -56,7 +56,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.921
+      "latency_seconds": 1.178
     },
     {
       "id": "train_01113",
@@ -69,7 +69,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.788
+      "latency_seconds": 0.992
     },
     {
       "id": "train_02009",
@@ -82,7 +82,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.739
+      "latency_seconds": 1.952
     },
     {
       "id": "train_01170",
@@ -95,7 +95,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.332
+      "latency_seconds": 1.541
     },
     {
       "id": "train_03585",
@@ -108,7 +108,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.562
+      "latency_seconds": 1.761
     },
     {
       "id": "train_03547",
@@ -121,7 +121,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.525
+      "latency_seconds": 1.938
     },
     {
       "id": "train_03734",
@@ -134,7 +134,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.239
+      "latency_seconds": 1.86
     },
     {
       "id": "train_00762",
@@ -147,7 +147,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.501
+      "latency_seconds": 0.659
     },
     {
       "id": "train_03532",
@@ -160,7 +160,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.123
+      "latency_seconds": 1.776
     },
     {
       "id": "train_01667",
@@ -173,7 +173,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.496
+      "latency_seconds": 3.118
     },
     {
       "id": "train_03840",
@@ -186,7 +186,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.412
+      "latency_seconds": 1.547
     },
     {
       "id": "train_04344",
@@ -199,7 +199,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 0.604
+      "latency_seconds": 0.718
     },
     {
       "id": "train_04342",
@@ -212,7 +212,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.405
+      "latency_seconds": 1.683
     },
     {
       "id": "train_03538",
@@ -225,7 +225,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 0.827
+      "latency_seconds": 0.973
     },
     {
       "id": "train_01165",
@@ -238,7 +238,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.399
+      "latency_seconds": 1.572
     },
     {
       "id": "train_01997",
@@ -251,7 +251,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.917
+      "latency_seconds": 1.031
     },
     {
       "id": "train_04831",
@@ -264,7 +264,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.548
+      "latency_seconds": 1.857
     },
     {
       "id": "train_01679",
@@ -277,7 +277,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.263
+      "latency_seconds": 3.535
     },
     {
       "id": "train_04339",
@@ -290,7 +290,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.204
+      "latency_seconds": 1.313
     },
     {
       "id": "train_00778",
@@ -303,7 +303,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.558
+      "latency_seconds": 1.687
     },
     {
       "id": "train_05830",
@@ -316,7 +316,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.141
+      "latency_seconds": 1.29
     },
     {
       "id": "train_00096",
@@ -329,7 +329,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.853
+      "latency_seconds": 0.88
     },
     {
       "id": "train_03750",
@@ -342,7 +342,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.824
+      "latency_seconds": 0.908
     },
     {
       "id": "train_03837",
@@ -355,7 +355,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.629
+      "latency_seconds": 1.718
     },
     {
       "id": "train_01167",
@@ -368,7 +368,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.522
+      "latency_seconds": 0.568
     },
     {
       "id": "train_04876",
@@ -381,7 +381,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 0.648
+      "latency_seconds": 0.759
     },
     {
       "id": "train_01666",
@@ -394,7 +394,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.611
+      "latency_seconds": 2.849
     },
     {
       "id": "train_01116",
@@ -407,7 +407,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.148
+      "latency_seconds": 1.638
     },
     {
       "id": "train_04318",
@@ -420,7 +420,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.465
+      "latency_seconds": 3.21
     },
     {
       "id": "train_03606",
@@ -433,7 +433,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.644
+      "latency_seconds": 2.838
     },
     {
       "id": "train_03747",
@@ -446,7 +446,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 5.107
+      "latency_seconds": 8.002
     },
     {
       "id": "train_01924",
@@ -459,7 +459,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.388
+      "latency_seconds": 1.578
     },
     {
       "id": "train_03730",
@@ -472,7 +472,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.743
+      "latency_seconds": 0.783
     },
     {
       "id": "train_03602",
@@ -485,7 +485,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.721
+      "latency_seconds": 1.627
     },
     {
       "id": "train_01162",
@@ -498,7 +498,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.594
+      "latency_seconds": 2.644
     },
     {
       "id": "train_01920",
@@ -511,7 +511,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.672
+      "latency_seconds": 4.046
     },
     {
       "id": "train_03752",
@@ -524,7 +524,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.877
+      "latency_seconds": 1.761
     },
     {
       "id": "train_03537",
@@ -537,7 +537,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 0.855
+      "latency_seconds": 1.918
     },
     {
       "id": "train_03797",
@@ -550,7 +550,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.829
+      "latency_seconds": 5.679
     },
     {
       "id": "train_03542",
@@ -563,7 +563,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.935
+      "latency_seconds": 2.268
     },
     {
       "id": "train_03775",
@@ -576,7 +576,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.368
+      "latency_seconds": 1.484
     },
     {
       "id": "train_03760",
@@ -589,7 +589,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 0.615
+      "latency_seconds": 0.588
     },
     {
       "id": "train_01681",
@@ -602,7 +602,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.954
+      "latency_seconds": 2.034
     },
     {
       "id": "train_02029",
@@ -615,7 +615,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.876
+      "latency_seconds": 3.107
     },
     {
       "id": "train_04356",
@@ -628,7 +628,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.042
+      "latency_seconds": 2.284
     },
     {
       "id": "train_04887",
@@ -641,7 +641,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.258
+      "latency_seconds": 1.477
     },
     {
       "id": "train_00753",
@@ -654,7 +654,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.149
+      "latency_seconds": 1.668
     },
     {
       "id": "train_03570",
@@ -667,7 +667,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.816
+      "latency_seconds": 1.115
     },
     {
       "id": "train_03795",
@@ -680,7 +680,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.513
+      "latency_seconds": 3.689
     },
     {
       "id": "train_03523",
@@ -693,7 +693,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.227
+      "latency_seconds": 1.12
     },
     {
       "id": "train_00769",
@@ -706,7 +706,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.638
+      "latency_seconds": 1.315
     },
     {
       "id": "train_01132",
@@ -719,7 +719,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 5.79
+      "latency_seconds": 3.251
     },
     {
       "id": "train_00074",
@@ -732,7 +732,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.78
+      "latency_seconds": 1.548
     },
     {
       "id": "train_00064",
@@ -745,7 +745,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.772
+      "latency_seconds": 1.057
     },
     {
       "id": "train_03778",
@@ -758,7 +758,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.742
+      "latency_seconds": 1.511
     },
     {
       "id": "train_01654",
@@ -771,7 +771,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.718
+      "latency_seconds": 1.262
     },
     {
       "id": "train_05823",
@@ -784,7 +784,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 5.336
+      "latency_seconds": 2.787
     },
     {
       "id": "train_04383",
@@ -797,7 +797,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.468
+      "latency_seconds": 1.192
     },
     {
       "id": "train_04358",
@@ -810,7 +810,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 13.98
+      "latency_seconds": 6.803
     },
     {
       "id": "train_01992",
@@ -823,7 +823,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.301
+      "latency_seconds": 0.587
     },
     {
       "id": "train_01128",
@@ -836,7 +836,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 5.357
+      "latency_seconds": 2.624
     },
     {
       "id": "train_03524",
@@ -849,7 +849,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.232
+      "latency_seconds": 1.164
     },
     {
       "id": "train_03742",
@@ -862,7 +862,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.556
+      "latency_seconds": 3.182
     },
     {
       "id": "train_03546",
@@ -875,7 +875,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 7.458
+      "latency_seconds": 3.283
     },
     {
       "id": "train_00108",
@@ -888,7 +888,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 8.983
+      "latency_seconds": 3.817
     },
     {
       "id": "train_03725",
@@ -901,7 +901,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.945
+      "latency_seconds": 2.08
     },
     {
       "id": "train_04881",
@@ -914,7 +914,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.635
+      "latency_seconds": 1.875
     },
     {
       "id": "train_03781",
@@ -927,7 +927,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.664
+      "latency_seconds": 1.806
     },
     {
       "id": "train_03609",
@@ -940,7 +940,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.452
+      "latency_seconds": 3.326
     },
     {
       "id": "train_03787",
@@ -953,7 +953,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.308
+      "latency_seconds": 0.985
     },
     {
       "id": "train_03771",
@@ -966,7 +966,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.567
+      "latency_seconds": 2.583
     },
     {
       "id": "train_01156",
@@ -979,7 +979,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 5.01
+      "latency_seconds": 3.668
     },
     {
       "id": "train_02032",
@@ -992,7 +992,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.906
+      "latency_seconds": 1.417
     },
     {
       "id": "train_04385",
@@ -1005,7 +1005,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 14.246
+      "latency_seconds": 9.133
     },
     {
       "id": "train_01686",
@@ -1018,7 +1018,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 8.529
+      "latency_seconds": 3.518
     },
     {
       "id": "train_03618",
@@ -1031,7 +1031,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 3.158
+      "latency_seconds": 1.419
     },
     {
       "id": "train_00750",
@@ -1044,7 +1044,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.452
+      "latency_seconds": 0.655
     },
     {
       "id": "train_03755",
@@ -1057,7 +1057,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.652
+      "latency_seconds": 1.48
     },
     {
       "id": "train_03610",
@@ -1070,7 +1070,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.417
+      "latency_seconds": 1.795
     },
     {
       "id": "train_04890",
@@ -1083,7 +1083,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.894
+      "latency_seconds": 1.231
     },
     {
       "id": "train_03796",
@@ -1096,7 +1096,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 9.705
+      "latency_seconds": 3.995
     },
     {
       "id": "train_02035",
@@ -1109,7 +1109,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 9.419
+      "latency_seconds": 4.203
     },
     {
       "id": "train_00774",
@@ -1122,7 +1122,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 3.283
+      "latency_seconds": 1.635
     },
     {
       "id": "train_01166",
@@ -1135,7 +1135,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.815
+      "latency_seconds": 0.916
     },
     {
       "id": "train_01908",
@@ -1148,7 +1148,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.049
+      "latency_seconds": 0.579
     },
     {
       "id": "train_04369",
@@ -1161,7 +1161,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.952
+      "latency_seconds": 2.988
     },
     {
       "id": "train_01993",
@@ -1174,7 +1174,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.344
+      "latency_seconds": 1.11
     },
     {
       "id": "train_03746",
@@ -1187,7 +1187,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.482
+      "latency_seconds": 2.654
     },
     {
       "id": "train_02646",
@@ -1200,7 +1200,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 9.563
+      "latency_seconds": 3.978
     },
     {
       "id": "train_03818",
@@ -1213,7 +1213,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.499
+      "latency_seconds": 3.166
     },
     {
       "id": "train_02033",
@@ -1226,7 +1226,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.415
+      "latency_seconds": 2.305
     },
     {
       "id": "train_04379",
@@ -1239,7 +1239,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.843
+      "latency_seconds": 1.012
     },
     {
       "id": "train_01158",
@@ -1252,7 +1252,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 5.541
+      "latency_seconds": 2.892
     },
     {
       "id": "train_00784",
@@ -1265,7 +1265,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.987
+      "latency_seconds": 2.577
     },
     {
       "id": "train_02645",
@@ -1278,7 +1278,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.878
+      "latency_seconds": 3.559
     },
     {
       "id": "train_01159",
@@ -1291,7 +1291,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.884
+      "latency_seconds": 3.493
     },
     {
       "id": "train_04825",
@@ -1304,7 +1304,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 18.428
+      "latency_seconds": 9.599
     },
     {
       "id": "train_03813",
@@ -1317,7 +1317,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.582
+      "latency_seconds": 3.512
     },
     {
       "id": "train_04886",
@@ -1330,7 +1330,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.652
+      "latency_seconds": 4.208
     },
     {
       "id": "train_03589",
@@ -1343,7 +1343,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.964
+      "latency_seconds": 2.712
     },
     {
       "id": "train_02030",
@@ -1356,7 +1356,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 8.455
+      "latency_seconds": 7.18
     },
     {
       "id": "train_03753",
@@ -1369,7 +1369,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.763
+      "latency_seconds": 1.458
     },
     {
       "id": "train_02011",
@@ -1382,7 +1382,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.506
+      "latency_seconds": 2.259
     },
     {
       "id": "train_03738",
@@ -1395,7 +1395,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 10.532
+      "latency_seconds": 9.393
     },
     {
       "id": "train_00755",
@@ -1408,7 +1408,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.825
+      "latency_seconds": 2.606
     },
     {
       "id": "train_02028",
@@ -1421,7 +1421,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 10.48
+      "latency_seconds": 9.686
     },
     {
       "id": "train_01661",
@@ -1434,7 +1434,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.192
+      "latency_seconds": 2.288
     },
     {
       "id": "train_04855",
@@ -1447,7 +1447,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.482
+      "latency_seconds": 1.556
     },
     {
       "id": "train_01660",
@@ -1460,7 +1460,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.232
+      "latency_seconds": 2.385
     },
     {
       "id": "train_03816",
@@ -1473,7 +1473,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 7.192
+      "latency_seconds": 7.609
     },
     {
       "id": "train_00092",
@@ -1486,7 +1486,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.068
+      "latency_seconds": 1.126
     },
     {
       "id": "train_00063",
@@ -1499,7 +1499,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.482
+      "latency_seconds": 2.676
     },
     {
       "id": "train_03584",
@@ -1512,7 +1512,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.653
+      "latency_seconds": 2.825
     },
     {
       "id": "train_06591",
@@ -1525,7 +1525,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.902
+      "latency_seconds": 2.005
     },
     {
       "id": "train_04819",
@@ -1538,7 +1538,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.47
+      "latency_seconds": 1.563
     },
     {
       "id": "train_03536",
@@ -1551,7 +1551,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 5.854
+      "latency_seconds": 6.112
     },
     {
       "id": "train_04360",
@@ -1564,7 +1564,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.069
+      "latency_seconds": 2.271
     },
     {
       "id": "train_03555",
@@ -1577,7 +1577,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.073
+      "latency_seconds": 2.261
     },
     {
       "id": "train_03599",
@@ -1590,7 +1590,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 5.89
+      "latency_seconds": 6.241
     },
     {
       "id": "train_03728",
@@ -1603,7 +1603,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.343
+      "latency_seconds": 1.433
     },
     {
       "id": "train_03727",
@@ -1616,7 +1616,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.043
+      "latency_seconds": 1.159
     },
     {
       "id": "train_04377",
@@ -1629,7 +1629,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.755
+      "latency_seconds": 6.311
     },
     {
       "id": "train_03802",
@@ -1642,7 +1642,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.571
+      "latency_seconds": 5.652
     },
     {
       "id": "train_03798",
@@ -1655,7 +1655,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 9.328
+      "latency_seconds": 8.81
     },
     {
       "id": "train_04793",
@@ -1668,7 +1668,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.78
+      "latency_seconds": 1.924
     },
     {
       "id": "train_06611",
@@ -1681,7 +1681,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.225
+      "latency_seconds": 6.743
     },
     {
       "id": "train_02016",
@@ -1694,7 +1694,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.956
+      "latency_seconds": 1.962
     },
     {
       "id": "train_00770",
@@ -1707,7 +1707,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.509
+      "latency_seconds": 2.689
     },
     {
       "id": "train_04323",
@@ -1720,7 +1720,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 9.123
+      "latency_seconds": 8.584
     },
     {
       "id": "train_03560",
@@ -1733,7 +1733,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.106
+      "latency_seconds": 1.932
     },
     {
       "id": "train_00100",
@@ -1746,7 +1746,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.687
+      "latency_seconds": 3.393
     },
     {
       "id": "train_00094",
@@ -1759,7 +1759,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 7.189
+      "latency_seconds": 6.701
     },
     {
       "id": "train_03726",
@@ -1772,7 +1772,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.138
+      "latency_seconds": 1.096
     },
     {
       "id": "train_03758",
@@ -1785,7 +1785,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.212
+      "latency_seconds": 6.1
     },
     {
       "id": "train_00095",
@@ -1798,7 +1798,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.8
+      "latency_seconds": 1.577
     },
     {
       "id": "train_04862",
@@ -1811,7 +1811,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.461
+      "latency_seconds": 1.178
     },
     {
       "id": "train_03604",
@@ -1824,7 +1824,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 2.477
+      "latency_seconds": 1.955
     },
     {
       "id": "train_00080",
@@ -1837,7 +1837,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.232
+      "latency_seconds": 5.15
     },
     {
       "id": "train_04315",
@@ -1850,7 +1850,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 12.745
+      "latency_seconds": 10.108
     },
     {
       "id": "train_01673",
@@ -1863,7 +1863,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 8.265
+      "latency_seconds": 6.086
     },
     {
       "id": "train_04826",
@@ -1876,7 +1876,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.786
+      "latency_seconds": 2.283
     },
     {
       "id": "train_05809",
@@ -1889,7 +1889,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.4
+      "latency_seconds": 1.166
     },
     {
       "id": "train_04833",
@@ -1902,7 +1902,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.063
+      "latency_seconds": 2.91
     },
     {
       "id": "train_03551",
@@ -1915,7 +1915,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 4.048
+      "latency_seconds": 3.147
     },
     {
       "id": "train_01137",
@@ -1928,7 +1928,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 4.268
+      "latency_seconds": 3.423
     },
     {
       "id": "train_00777",
@@ -1941,7 +1941,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 5.574
+      "latency_seconds": 4.383
     },
     {
       "id": "train_03737",
@@ -1954,7 +1954,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.258
+      "latency_seconds": 5.883
     },
     {
       "id": "train_01670",
@@ -1967,7 +1967,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.888
+      "latency_seconds": 2.963
     },
     {
       "id": "train_03790",
@@ -1980,7 +1980,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.56
+      "latency_seconds": 2.474
     },
     {
       "id": "train_03608",
@@ -1993,7 +1993,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.942
+      "latency_seconds": 4.265
     },
     {
       "id": "train_00756",
@@ -2006,7 +2006,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.257
+      "latency_seconds": 2.949
     },
     {
       "id": "train_00747",
@@ -2019,7 +2019,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.281
+      "latency_seconds": 1.049
     },
     {
       "id": "train_04312",
@@ -2032,7 +2032,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 10.178
+      "latency_seconds": 8.649
     },
     {
       "id": "train_02654",
@@ -2045,7 +2045,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.828
+      "latency_seconds": 2.812
     },
     {
       "id": "train_04814",
@@ -2058,7 +2058,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 7.984
+      "latency_seconds": 5.737
     },
     {
       "id": "train_04331",
@@ -2071,7 +2071,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 3.358
+      "latency_seconds": 2.763
     },
     {
       "id": "train_00786",
@@ -2084,7 +2084,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 7.388
+      "latency_seconds": 6.079
     },
     {
       "id": "train_03779",
@@ -2097,7 +2097,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.905
+      "latency_seconds": 2.527
     },
     {
       "id": "train_01146",
@@ -2110,7 +2110,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.08
+      "latency_seconds": 2.396
     },
     {
       "id": "train_02004",
@@ -2123,7 +2123,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.126
+      "latency_seconds": 1.757
     },
     {
       "id": "train_04371",
@@ -2136,7 +2136,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.873
+      "latency_seconds": 2.24
     },
     {
       "id": "train_02005",
@@ -2149,7 +2149,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.597
+      "latency_seconds": 2.819
     },
     {
       "id": "train_00097",
@@ -2162,7 +2162,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.988
+      "latency_seconds": 1.702
     },
     {
       "id": "train_03530",
@@ -2175,7 +2175,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.71
+      "latency_seconds": 5.27
     },
     {
       "id": "train_04811",
@@ -2188,7 +2188,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 10.323
+      "latency_seconds": 8.036
     },
     {
       "id": "train_04382",
@@ -2201,7 +2201,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.14
+      "latency_seconds": 4.538
     },
     {
       "id": "train_00749",
@@ -2214,7 +2214,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.401
+      "latency_seconds": 0.958
     },
     {
       "id": "train_03571",
@@ -2227,7 +2227,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.763
+      "latency_seconds": 1.178
     },
     {
       "id": "train_03574",
@@ -2240,7 +2240,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 3.713
+      "latency_seconds": 2.671
     },
     {
       "id": "train_04800",
@@ -2253,7 +2253,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.111
+      "latency_seconds": 1.571
     },
     {
       "id": "train_03612",
@@ -2266,7 +2266,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 4.566
+      "latency_seconds": 3.123
     },
     {
       "id": "train_01678",
@@ -2279,7 +2279,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 8.248
+      "latency_seconds": 5.863
     },
     {
       "id": "train_06610",
@@ -2292,7 +2292,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 20.217
+      "latency_seconds": 14.493
     },
     {
       "id": "train_03841",
@@ -2305,7 +2305,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.637
+      "latency_seconds": 2.706
     },
     {
       "id": "train_00072",
@@ -2318,7 +2318,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 7.493
+      "latency_seconds": 5.526
     },
     {
       "id": "train_05832",
@@ -2331,7 +2331,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.952
+      "latency_seconds": 1.48
     },
     {
       "id": "train_02642",
@@ -2344,7 +2344,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 6.51
+      "latency_seconds": 4.73
     },
     {
       "id": "train_01669",
@@ -2357,7 +2357,7 @@
       "exact_match": false,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 8.224
+      "latency_seconds": 5.855
     },
     {
       "id": "train_00771",
@@ -2370,7 +2370,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.88
+      "latency_seconds": 2.02
     },
     {
       "id": "train_04865",
@@ -2383,7 +2383,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.383
+      "latency_seconds": 1.759
     },
     {
       "id": "train_06599",
@@ -2396,7 +2396,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.994
+      "latency_seconds": 2.158
     },
     {
       "id": "train_04879",
@@ -2409,7 +2409,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.344
+      "latency_seconds": 2.34
     },
     {
       "id": "train_03566",
@@ -2422,7 +2422,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 6.998
+      "latency_seconds": 4.983
     },
     {
       "id": "train_02012",
@@ -2435,7 +2435,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.013
+      "latency_seconds": 2.093
     },
     {
       "id": "train_01172",
@@ -2448,7 +2448,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 7.087
+      "latency_seconds": 4.977
     },
     {
       "id": "train_01657",
@@ -2461,7 +2461,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.02
+      "latency_seconds": 2.794
     },
     {
       "id": "train_01922",
@@ -2474,7 +2474,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.207
+      "latency_seconds": 0.844
     },
     {
       "id": "train_04333",
@@ -2487,7 +2487,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 9.436
+      "latency_seconds": 6.503
     },
     {
       "id": "train_01994",
@@ -2500,7 +2500,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.696
+      "latency_seconds": 1.6
     },
     {
       "id": "train_03733",
@@ -2513,7 +2513,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 2.437
+      "latency_seconds": 1.608
     },
     {
       "id": "train_04319",
@@ -2526,7 +2526,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 5.388
+      "latency_seconds": 3.603
     },
     {
       "id": "train_04384",
@@ -2539,7 +2539,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.693
+      "latency_seconds": 1.157
     },
     {
       "id": "train_04372",
@@ -2552,7 +2552,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 7.596
+      "latency_seconds": 5.355
     },
     {
       "id": "train_00060",
@@ -2565,7 +2565,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 1.748
+      "latency_seconds": 1.273
     },
     {
       "id": "train_04381",
@@ -2578,7 +2578,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 1.229
+      "latency_seconds": 0.971
     },
     {
       "id": "train_00059",
@@ -2591,7 +2591,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 4.016
+      "latency_seconds": 2.821
     },
     {
       "id": "train_01914",
@@ -2604,7 +2604,7 @@
       "exact_match": true,
       "relaxed_match": true,
       "error_message": "",
-      "latency_seconds": 3.647
+      "latency_seconds": 2.539
     },
     {
       "id": "train_06594",
@@ -2617,7 +2617,7 @@
       "exact_match": false,
       "relaxed_match": false,
       "error_message": "",
-      "latency_seconds": 9.09
+      "latency_seconds": 6.451
     }
   ]
 }
